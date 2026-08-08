@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Oliveira! 👋
+# I'm Lucas Oliveira! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+React+%2F+Next.js;Criando+solu%C3%A7%C3%B5es+de+alto+impacto" alt="Typing SVG" />
